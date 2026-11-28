@@ -1788,6 +1788,7 @@ input, select, textarea {
 
 	header p {
 		margin-top: -1em;
+		font-size: 1.15em;
 	}
 
 	@media screen and (max-width: 736px) {
