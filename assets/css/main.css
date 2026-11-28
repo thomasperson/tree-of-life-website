@@ -3357,3 +3357,21 @@ input, select, textarea {
   color: white;
   font-size: 2rem;
 }
+
+@media screen and (max-width: 736px) {
+
+	.banner {
+		font-size: 1.5rem;
+		height: 280px;
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+
+	.banner {
+		font-size: 1.25rem;
+		height: 220px;
+	}
+
+}
