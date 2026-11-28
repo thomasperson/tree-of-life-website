@@ -3325,6 +3325,10 @@ input, select, textarea {
 		padding: 0 2.5em;
 	}
 
+		#wrapper > * > .inner > p {
+			font-size: 1.5em;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			#wrapper > * > .inner {
